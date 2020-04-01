@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<h2>Competences</br></h2>
-<h2>Experiences</br></h2>
-<h2>Formation</br>></h2>
-<h2>Hobbies</br></h2>
+<h2>Competences</h2>
+<h2>Experiences</h2>
+<h2>Formation></h2>
+<h2>Hobbies</h2>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
