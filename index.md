@@ -4,7 +4,7 @@ layout: default
 
 <h2>Competences</br></h2>
 <h2>Experiences</br></h2>
-<h2>Formation</</br>br></h2>
+<h2>Formation</</br>></h2>
 <h2>Hobbies</br></h2>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
